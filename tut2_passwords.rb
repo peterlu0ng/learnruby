@@ -1,1 +1,1 @@
-require 'bcrypt'
+require 'bcrypt
